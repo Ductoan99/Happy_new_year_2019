@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #000;
+    text-align: center;
+    background-image: url(https://img2.thuthuatphanmem.vn/uploads/2018/12/30/anh-nen-chuc-mung-nam-moi-2019-dep-va-don-gian_104903925.jpg);
+    background-size: cover;
+}
+.text{
+    width: 100%;
+    margin-top: 20px;
+}
+h1{
+    color: rgb(245, 241, 11);
+    font-size: 80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+canvas {
+    cursor: crosshair;
+    display: block;
+}
